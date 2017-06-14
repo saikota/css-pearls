@@ -1,0 +1,22 @@
+{
+  "name": "css_pearls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saikota/css-pearls.git"
+  },
+  "author": "sai kota",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saikota/css-pearls/issues"
+  },
+  "homepage": "https://github.com/saikota/css-pearls#readme",
+  "dependencies": {
+    "httpster": "^1.0.3"
+  }
+}
